@@ -1,5 +1,5 @@
 describe( "" ,() => {
-  it('should ',  () => {
-    expect().toBeTruthy()
+  it('should pass',  () => {
+    expect(true).toBeTruthy()
   });
 })
